@@ -7,3 +7,7 @@ function loadinfo(){
 function loadport(){
   $( "#main" ).load( "port.html" );
 }
+
+function loadkom(){
+  $("#main").load("kom.html");
+}
